@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.trevellin.orcamentos",
+      "sha256_cert_fingerprints": ["86:8C:C2:2B:31:D7:54:1C:9B:38:A2:BD:3E:C6:18:09:81:3E:80:3B:13:7F:66:53:EA:92:7A:E3:38:B7:E1:36"]
+    }
+  }
+]
